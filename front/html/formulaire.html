@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+   
+
+        <div>
+            <!--Formulaire!-->
+            <div class="container">
+                <h1> Titre Formulaire</h1>
+                <form method="post" id="id-form" action=".js">
+                    <fieldset form="id-form">
+                        <legend>Vos coordonnées</legend>
+                        <p>
+                            <input type="radio" id="mister" name="civil" value ="monsieur" >
+                            <label for="monsieur">M.</label>
+                            <input type="radio" id="madam" name="civil" value ="madame" >
+                            <label for="madame">MME</label>
+                        </p>
+                        <p><label for="user-name">Votre Nom</label>
+                            <input id="user-name" placeholder="Votre Nom ici" type="text">
+                        </p>
+                        <p><label for="firstname">Votre Prénom</label>
+                            <input id="firstname"  placeholder="Votre prénom ici" type="text">
+                        </p>
+                        <label for="email">Votre e-mail </label>
+                        <input type="email" name="email" id="email" placeholder="anne-onyme@gmail.com" required="">
+                        <label for="telephone">Votre numero de téléphone </label>
+                        <input type="tel" name="phone" id="phone" placeholder="0612345678" required=""
+                        minlength="10" maxlength="10">
+                    </fieldset>
+                    <fieldset>
+                        <legend> Votre message</legend>
+                        <label for="object-select"> Objet de votre message:</label>
+                        <select name="object"  id="object-select" required="">
+                            <option value=""> <span class="light">Merci de choisir le motif de votre demande</span></option>
+                            <option value="repair">Réparation / dépannage</option>
+                            <option value="sale">visite pour véhicule d'occasion</option>
+                            <option value="sav"> Service aprés Ventes</option>
+                        </select>
+                        <!-- faire input de liste de vehicule occasion pour la ref quant option value=sale-->
+                    
+                        <!-- Choix du date de rendez vous disponible
+                            <label for="date">Date de rendez-vous</label>
+                        <input type="date" name="dateplanning" id="dateplanning">
+                        <p><label for="message">Message</label>
+                            <textarea row="10"  id="object"  placeholder="Bonjour, je souhaite prendre rendez-vous pour ..."  ></textarea>
+                        </p>
+                        -->
+                        <label class="form-check-label" for="conditions">J'accepte les conditions</label>
+                            <input type="checkbox" class="form-check-input" id="conditions" name="conditions" required="">
+                            <div class="invalid-feedback" >
+                                Merci de lire les conditions avant de valider le formulaire.
+                            </div>    
+                    </fieldset>
+                    <button type="submit" name="contactButton" value="send">Envoyer</button>
+                        
+                    <!-- faire un capchat?
+                    <p><label><?php echo $question; ?><br /><small>Répondre en minuscule</small></label>
+                    <input type="text" name="captcha" id="captcha" /></p>
+                    -->
+                    
+                </form>
+            </div>
+        </div>
+        
+    </body>
+</html>

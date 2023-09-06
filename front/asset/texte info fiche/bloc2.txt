@@ -1,0 +1,358 @@
+<div class="col-12">
+      <ul class="nav nav-tabs" id="myTab" role="tablist">
+        <li class="nav-item">
+          <a class="nav-link th_font_title active" id="equipements-tab" data-toggle="tab" href="#equipements" role="tab" aria-controls="equipements" aria-selected="true">Equipements</a>
+        </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <li class="nav-item" style="">
+          <a class="nav-link th_font_title" id="generalites-tab" data-toggle="tab" href="#generalites" role="tab" aria-controls="generalites" aria-selected="false">Généralités</a>
+        </li>
+              </ul>
+      <div class="tab-content" id="myTabContent">
+        <div class="tab-pane fade show active" id="equipements" role="tabpanel" aria-labelledby="equipements-tab">
+          <div class="mt-4 pl-4">
+            <ul>
+                                                                                                    <li class=" ">
+                      2 portes AR asymétriques tolées 
+                    </li>
+                                    <li class=" ">
+                      ABS + EBV (répartiteur électronique de freinage) 
+                    </li>
+                                    <li class=" ">
+                      Aide au freinage d'urgence AFU 
+                    </li>
+                                    <li class=" ">
+                      Bacs de rangement dans les panneaux de portes AV 
+                    </li>
+                                    <li class=" ">
+                      Boîte à gants fermée 
+                    </li>
+                                    <li class=" ">
+                      Boucliers AV/AR, rétroviseurs et baguettes latérales noir grainé 
+                    </li>
+                                    <li class=" ">
+                      Ceintures de sécurité AV réglables en hauteur 
+                    </li>
+                                    <li class=" ">
+                      Ceintures de sécurité avant 3 points avec double prétensionneur et limiteur d'effort 
+                    </li>
+                                    <li class=" ">
+                      Charge utile normale 
+                    </li>
+                                    <li class=" ">
+                      Clé 2 boutons 
+                    </li>
+                                    <li class=" ">
+                      Climatisation manuelle 
+                    </li>
+                                    <li class=" ">
+                      Cloison complète tôlée 
+                    </li>
+                                    <li class=" ">
+                      Compte-tours 
+                    </li>
+                                    <li class=" ">
+                      Condamnation automatique des ouvrants en roulant (CAR) 
+                    </li>
+                                    <li class=" ">
+                      Condamnation centralisée des portes 
+                    </li>
+                                    <li class=" ">
+                      Condamnation centralisée des portes par télécommande à radiofréquence 
+                    </li>
+                                    <li class=" ">
+                      Connectique dans zone de chargement 
+                    </li>
+                                    <li class=" ">
+                      Direction assistée électrique à assistance variable 
+                    </li>
+                                    <li class=" ">
+                      Eclaireur central AV 3 positions 
+                    </li>
+                                    <li class=" ">
+                      Enjoliveurs pleins 
+                    </li>
+                                    <li class=" ">
+                      ESP+Extended Grip+Aide au démarrage en côte 
+                    </li>
+                                    <li class=" ">
+                      Filtre à particules 
+                    </li>
+                                    <li class=" ">
+                      Filtre pollen 
+                    </li>
+                                    <li class=" ">
+                      Fonction éclairage d'accompagnement extérieur (Follow me home) 
+                    </li>
+                                    <li class=" ">
+                      Freins AR à tambours 
+                    </li>
+                                    <li class=" ">
+                      Freins à disques AR 
+                    </li>
+                                    <li class=" ">
+                      Harmonie Carbone Foncé 
+                    </li>
+                                    <li class=" ">
+                      Lève-vitres AV électriques, impulsionnel à la descente côté conducteur 
+                    </li>
+                                    <li class=" ">
+                      Lunette AR non chauffante 
+                    </li>
+                                    <li class=" ">
+                      Module central de rangement/accoudoir plastique entre sièges AV 
+                    </li>
+                                    <li class=" ">
+                      Motorisation Stop&amp;Start 
+                    </li>
+                                    <li class=" ">
+                      Ordinateur de bord 
+                    </li>
+                                    <li class=" ">
+                      Peinture opaque 
+                    </li>
+                                    <li class=" ">
+                      Peinture opaque (depuis 01/09/2020) 
+                    </li>
+                                    <li class=" ">
+                      Porte latérale droite coulissante tôlée 
+                    </li>
+                                    <li class=" ">
+                      Prédisposition barres de toit et galerie 
+                    </li>
+                                    <li class=" ">
+                      Protection plastique sous moteur 
+                    </li>
+                                    <li class=" ">
+                      R-Plug&amp;Radio (Bluetooth+USB+affichage intégré) 
+                    </li>
+                                    <li class=" ">
+                      R-Plug&amp;Radio DAB (Bluetooth+USB+CD+affichage intégré+satellite commandes volant) 
+                    </li>
+                                    <li class=" ">
+                      Rack de rangement supérieur (capucine) 
+                    </li>
+                                    <li class=" ">
+                      Régulateur limiteur de vitesse 
+                    </li>
+                                    <li class=" ">
+                      Répititeurs latéraux 
+                    </li>
+                                    <li class=" ">
+                      Rétroviseurs extérieurs chromés à réglages manuel et dégivrants 
+                    </li>
+                                    <li class=" ">
+                      Rétroviseurs extérieurs électriques dégivrants 
+                    </li>
+                                    <li class=" ">
+                      Roue de secours 
+                    </li>
+                                    <li class=" ">
+                      Roues tôlées 15" 
+                    </li>
+                                    <li class=" ">
+                      Sans custode droite 
+                    </li>
+                                    <li class=" ">
+                      Sans custode gauche 
+                    </li>
+                                    <li class=" ">
+                      Sans essuie lunette AR 
+                    </li>
+                                    <li class=" ">
+                      Sans porte latérale gauche coulissante 
+                    </li>
+                                    <li class=" ">
+                      Sellerie Tissu Tanega 
+                    </li>
+                                    <li class=" ">
+                      Siège conducteur réglable en hauteur 
+                    </li>
+                                    <li class=" ">
+                      Siège conducteur standard 
+                    </li>
+                                    <li class=" ">
+                      Siège passager standard 
+                    </li>
+                                    <li class=" ">
+                      Tapis de chargement caoutchouc 
+                    </li>
+                                    <li class=" ">
+                      Trappe de carburant avec clé 
+                    </li>
+                                    <li class=" ">
+                      Vitres teintées à pouvoir filtrant 
+                    </li>
+                                    <li class=" ">
+                      Volant réglable en hauteur 
+                    </li>
+                            </ul>
+          </div>
+        </div>
+        <div class="tab-pane fade" id="generalites" role="tabpanel" aria-labelledby="generalites-tab" data-km="46000" data-immat="10/11/2020" data-garantie="24" data-prix="12900" data-id="1982132200" data-tva="1" data-segment="M" data-genre="VU" data-energie="Diesel" data-occasion="vo" data-puissance-fiscale="5" data-puissance-din="80" data-code-energie="GO" data-prix-constructeur="23640" data-vr="" data-eligibilite-loab="" data-mec="20201110" data-agrement-s3s4="0" data-agrement-1er-jour="0" data-origine="FRA">
+          <div class="mt-4 pl-4">
+            <span class="font-weight-bold">Généralités</span>
+            <ul>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <li>
+                          Boite de vitesse : Boîte manuelle
+                      </li>
+                                                                              <li>
+                          Echappement : Filtre à particules et oxy.cat
+                      </li>
+                                                                              <li>
+                          Frein arrière : Tambour
+                      </li>
+                                                                              <li>
+                          Frein avant : Disque ventilés
+                      </li>
+                                                                              <li>
+                          Genre : VU
+                      </li>
+                                                                              <li>
+                          Nombre de place : 3
+                      </li>
+                                                                              <li>
+                          Nombre de porte : 5
+                      </li>
+                                                                              <li>
+                          Nombre de rapports : 6
+                      </li>
+                                                                              <li>
+                          Nombre de roues : 5
+                      </li>
+                                                                              <li>
+                          Norme de pollution : Euro 6d-TEMP
+                      </li>
+                                                                              <li>
+                          Segment : Fourgons petits
+                      </li>
+                                                                              <li>
+                          Taille pneu arrière : 195/65 R15 95
+                      </li>
+                                                                              <li>
+                          Taille pneu avant : 195/65 R15 95
+                      </li>
+                                                                              <li>
+                          Taux de CO2 NEDC : 0 g/km
+                      </li>
+                                                                              <li>
+                          Traction : Traction avant
+                      </li>
+                                                                              <li>
+                          Type de véhicule : Fourgonnette
+                      </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+            <span class="font-weight-bold">Cylindrée</span>
+            <ul>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <li>
+                          Arrangement Cylindre : Ligne
+                      </li>
+                                                                              <li>
+                          Carburant : Diesel
+                      </li>
+                                                                              <li>
+                          Charge : Turbo
+                      </li>
+                                                                              <li>
+                          Couple : 210 nm
+                      </li>
+                                                                              <li>
+                          Cylindree : 1461 cm3
+                      </li>
+                                                                              <li>
+                          Injection : Commonrail direct
+                      </li>
+                                                                              <li>
+                          Nombre de cylindre : 4
+                      </li>
+                                                                              <li>
+                          Nombre de valve par cylindre : 4
+                      </li>
+                                                                              <li>
+                          Puissance DIN : 80 ch
+                      </li>
+                                                                              <li>
+                          Puissance Fiscale : 5 cv
+                      </li>
+                                                                              <li>
+                          Puissance KW : 59 KW
+                      </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+
+                        
+            <span class="font-weight-bold">Performances/Consommation</span>
+            <ul>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <li>
+                          0 à 100 km/h : 15.2 seconde
+                      </li>
+                                                                              <li>
+                          Vitesse maxi : 154 km/h
+                      </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </ul>
+            <span class="font-weight-bold">Poids et dimensions</span>
+            <ul>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <li>
+                          Capacité du coffre moyenne : 3000 litre
+                      </li>
+                                                                              <li>
+                          Capacité du réservoir : 60 litres
+                      </li>
+                                                                              <li>
+                          Charge utile : 460 kg
+                      </li>
+                                                                              <li>
+                          Empattement : 2697 mm
+                      </li>
+                                                                              <li>
+                          Espace au sol : 172 mm
+                      </li>
+                                                                              <li>
+                          Hauteur : 1844 mm
+                      </li>
+                                                                              <li>
+                          Largeur : 1829 mm
+                      </li>
+                                                                              <li>
+                          Largeur extérieur avec retro : 2138 mm
+                      </li>
+                                                                              <li>
+                          Largeur maxi : 2138 mm
+                      </li>
+                                                                              <li>
+                          Longeur : 4282 mm
+                      </li>
+                                                                              <li>
+                          Poids à vide : 1520 kg
+                      </li>
+                                                                              <li>
+                          Poids hors passager : 1445 kg
+                      </li>
+                                                                              <li>
+                          Poids max remorque avec frein : 1050 kg
+                      </li>
+                                                                              <li>
+                          Poids Total : 1980 kg
+                      </li>
+                                                                              <li>
+                          Rayon de braquage : 10.7 m
+                      </li>
+                                                                              <li>
+                          Surplomb arrière : 710 mm
+                      </li>
+                                                                                                                        </ul>
+            <span class="font-weight-bold">Transmission</span>
+            <ul>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <li>
+                          Nombre d'essieux : 2
+                      </li>
+                                                                              <li>
+                          Nombre d'essieux en traction : 1
+                      </li>
+                                                </ul>
+            <span class="font-weight-bold">Service/Garantie</span>
+            <ul>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+          </div>
+        </div>
+
+                                              </div>
+    </div>

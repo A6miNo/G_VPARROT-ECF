@@ -1,0 +1,388 @@
+equipement
+<ul>
+                                                                                  <li class="plus">
+                          Audi Hold Assist (option incluse)
+                  </li>
+                                  <li class="plus">
+                          Audi pre sense basic (option incluse)
+                  </li>
+                                  <li class="plus">
+                          Caméra de recul (option incluse)
+                  </li>
+                                  <li class="plus">
+                          Peinture métallisée (option incluse)
+                  </li>
+                                  <li class="plus">
+                          Sièges AV chauffants (option incluse)
+                  </li>
+                                                    <li class=" ">
+                      "ATTENTION" - Equipements en cours de saisie 
+                    </li>
+                                    <li class=" ">
+                      Accès confort 
+                    </li>
+                                    <li class=" ">
+                      Accoudoir central AV 
+                    </li>
+                                    <li class=" ">
+                      Affichage du contrôle de la pression des pneus 
+                    </li>
+                                    <li class=" ">
+                      Airbag grand volume conducteur et passager AV, deux niveaux de gonflement suivant la gravité du choc 
+                    </li>
+                                    <li class=" ">
+                      Airbags grand volume pour conducteur et passager AV 
+                    </li>
+                                    <li class=" ">
+                      Airbags latéraux AV et système d'airbags de tête 
+                    </li>
+                                    <li class=" ">
+                      Allume-cigare et cendrier 
+                    </li>
+                                    <li class=" ">
+                      Anti-patinage (ASR) 
+                    </li>
+                                    <li class=" ">
+                      Applications décoratives en Aluminium brossé mat 
+                    </li>
+                                    <li class=" ">
+                      Applications décoratives en aluminium brossé mat 
+                    </li>
+                                    <li class=" ">
+                      Appui lombaire à 4 axes pour les sièges AV, réglages électriques, horizontal et vertical 
+                    </li>
+                                    <li class=" ">
+                      Appuis lombaires 
+                    </li>
+                                    <li class=" ">
+                      Audi Connect 
+                    </li>
+                                    <li class=" ">
+                      Audi Connect "Sécurité et Service" Inclut les services/applications des catégories "mesServices" et "monVéhicule" 
+                    </li>
+                                    <li class=" ">
+                      Audi Drive Select 
+                    </li>
+                                    <li class=" ">
+                      Audi Parking System Plus: Système accoustique et visuel d'aide au stationnement AV et AR 
+                    </li>
+                                    <li class=" ">
+                      Audi Pre-Sense City 
+                    </li>
+                                    <li class=" ">
+                      Audi Smartphone Interface 
+                    </li>
+                                    <li class=" ">
+                      Audi Sound System : amplificateurs 6 canaux, 10 HP dont 1 central dans le tableau de bord et 1 subwoofer, puissance totale 180 W 
+                    </li>
+                                    <li class=" ">
+                      Audi Virtual Cockpit combiné d?instruments entièrement numérique de 12.3" avec affichage haute résolution 
+                    </li>
+                                    <li class=" ">
+                      Baguette le long du pavillon et sur les appuis de vitre en aluminium anodisé (Pack Brillance) 
+                    </li>
+                                    <li class=" ">
+                      Baguettes sur les appuis de vitres style aluminium anodisé (Pack Brillance) 
+                    </li>
+                                    <li class=" ">
+                      Barres de toit transversales en aluminium anodisé 
+                    </li>
+                                    <li class=" ">
+                      Blocage électronique de différentiel EDS 
+                    </li>
+                                    <li class=" ">
+                      Capot de coffre à ouverture et fermeture automatiques 
+                    </li>
+                                    <li class=" ">
+                      Capot de coffre à ouverture et fermeture électrique 
+                    </li>
+                                    <li class=" ">
+                      Câbles de recharge pour téléphone portable, compatibles iPhone et Android 
+                    </li>
+                                    <li class=" ">
+                      Ceintures de sécurité: Ceintures 3 points à enrouleur pour tous les sièges, avec contrôle de port à l'AV, assorties à la couleur de l'habitacle 
+                    </li>
+                                    <li class=" ">
+                      Châssis dynamique pour un excellent dynamisme et un grand confort 
+                    </li>
+                                    <li class=" ">
+                      Châssis Sport S 
+                    </li>
+                                    <li class=" ">
+                      Ciel de pavillon en tissu assorti à la couleur intérieure 
+                    </li>
+                                    <li class=" ">
+                      Ciel de pavillon en Tissu Noir 
+                    </li>
+                                    <li class=" ">
+                      Ciel de pavillon noir 
+                    </li>
+                                    <li class=" ">
+                      Clé Confort (Keyless entry) 
+                    </li>
+                                    <li class=" ">
+                      Clé confort (sans safelock) 
+                    </li>
+                                    <li class=" ">
+                      Climatisation automatique Confort 3 zones 
+                    </li>
+                                    <li class=" ">
+                      Contrôle électronique de stabilisation ESC 
+                    </li>
+                                    <li class=" ">
+                      Cric et outillage de bord 
+                    </li>
+                                    <li class=" ">
+                      Désactivation de l'airbag passager 
+                    </li>
+                                    <li class=" ">
+                      Détecteur de pluie et de luminosité 
+                    </li>
+                                    <li class=" ">
+                      Déverrouillage et ouverture du hayon par un mouvement de pied 
+                    </li>
+                                    <li class=" ">
+                      Direction assistée électromécanique 
+                    </li>
+                                    <li class=" ">
+                      Dispositif anti-erreur de carburant 
+                    </li>
+                                    <li class=" ">
+                      Dossier de banquette AR rabattable à distance et en trois parties 40 : 20 : 40 ou complètement 
+                    </li>
+                                    <li class=" ">
+                      Eclairage intérieur à temporisation avec contacteurs sur toutes les portières 
+                    </li>
+                                    <li class=" ">
+                      Ecrous de roues antivol 
+                    </li>
+                                    <li class=" ">
+                      Entourage des vitres en aluminium (Pack Brillance) 
+                    </li>
+                                    <li class=" ">
+                      Feux AR rouges avec feux de recul blancs et feux AR de brouillard intégrés, feux de plaque AR à LED et 3ème feu de stop surélevé 
+                    </li>
+                                    <li class=" ">
+                      Fixation pour sièges enfants ISOFIX aux places extérieures AR avec Top Tether 
+                    </li>
+                                    <li class=" ">
+                      Fixation pour sièges enfants ISOFIX pour le siège passager AV avec commande de désactivation de l'airbag passager et sécurité enfant électrique séparée sur les portières AR 
+                    </li>
+                                    <li class=" ">
+                      Frein de stationnement électromécanique avec fonction frein de secours sur les 4 roues durant la marche 
+                    </li>
+                                    <li class=" ">
+                      Inscription "Quattro" sur la calandre, sur le capot de coffre et sur le tableau de bord côté passager AV 
+                    </li>
+                                    <li class=" ">
+                      Inscription S line sur les ailes AV 
+                    </li>
+                                    <li class=" ">
+                      Interface Bluetooth 
+                    </li>
+                                    <li class=" ">
+                      Jantes en aluminium coulé en style étoile à 5 branches doubles, 8 J x 19 
+                    </li>
+                                    <li class=" ">
+                      Jantes en aluminium coulé en style étoile à 5 branches doubles, 8 J x 19, pneus 235/55 R19 
+                    </li>
+                                    <li class=" ">
+                      Keyless go : Bouton start/stop pour le démarrage/arrêt du moteur sur le tableau de bord et verrouillage/déverrouillage central du véhicule via le clé télécommandée 
+                    </li>
+                                    <li class=" ">
+                      Keyless go : démarrage et arrêt du moteur par touche moteur Start/Stop sur la console centrale 
+                    </li>
+                                    <li class=" ">
+                      Kit de réparation pour pneus avec compresseur 12 volts et produit de colmatage pour les pneux, vitesse maximale autorisée à 80km/h 
+                    </li>
+                                    <li class=" ">
+                      Limiteur de vitesse réglable 
+                    </li>
+                                    <li class=" ">
+                      MMI navigation plus 
+                    </li>
+                                    <li class=" ">
+                      MMI Navigation Plus avec MMI touch 
+                    </li>
+                                    <li class=" ">
+                      MMI Radio Plus 
+                    </li>
+                                    <li class=" ">
+                      Moulures de seuil avec insert en aluminium dans les ouvertures des portières AV 
+                    </li>
+                                    <li class=" ">
+                      Moulures de seuils à l?AV avec insert en aluminium et inscription S, éclairées 
+                    </li>
+                                    <li class=" ">
+                      Moulures de seuils de portes avec inscription S 
+                    </li>
+                                    <li class=" ">
+                      Outillage de bord 
+                    </li>
+                                    <li class=" ">
+                      Pare-brise acoustique 
+                    </li>
+                                    <li class=" ">
+                      Pare-soleil 
+                    </li>
+                                    <li class=" ">
+                      Peinture intégrale 
+                    </li>
+                                    <li class=" ">
+                      Peinture intégrale : pare-chocs AV/AR, bas de caisse et passage de roues peints de couleur 
+                    </li>
+                                    <li class=" ">
+                      Peinture vernie 
+                    </li>
+                                    <li class=" ">
+                      Pédalier et repose-pied en acier inoxydable 
+                    </li>
+                                    <li class=" ">
+                      Phares à LED avec clignotants AR à LED dynamiques 
+                    </li>
+                                    <li class=" ">
+                      Préparation pour crochet d'attelage 
+                    </li>
+                                    <li class=" ">
+                      Protection antidémarrage électronique, intégrée à la gestion du moteur, activation automatique par la clé du véhicule 
+                    </li>
+                                    <li class=" ">
+                      Quattro avec technologie ultra 
+                    </li>
+                                    <li class=" ">
+                      Quattro transmission intégrale permanente avec répartition asymétrique et dynamique du couple 
+                    </li>
+                                    <li class=" ">
+                      Rampes de pavillon anodisées 
+                    </li>
+                                    <li class=" ">
+                      Revêtement noir brillant à l?extérieur sur les montants de pavillon centraux et arrière (Pack Brillance) 
+                    </li>
+                                    <li class=" ">
+                      Revêtement noir brillant à l?extérieur sur les montants de pavillon centraux et les triangles de portières AR (Pack Brillance) 
+                    </li>
+                                    <li class=" ">
+                      Récupération d'énergie, générée lors des phases de freinage ou de décélération permettant une économie de carburant 
+                    </li>
+                                    <li class=" ">
+                      Régulateur et limitateur de vitesse 
+                    </li>
+                                    <li class=" ">
+                      Réservoir d'AdBlue de 12 litres 
+                    </li>
+                                    <li class=" ">
+                      Rétroviseur intérieur sans encadrement jour/nuit automatique 
+                    </li>
+                                    <li class=" ">
+                      Rétroviseurs extérieurs avec clignotants à LED intégrés 
+                    </li>
+                                    <li class=" ">
+                      Rétroviseurs extérieurs escamotables électriquement, dégivrants des deux côtés et buses de lave-glaces dégivrantes 
+                    </li>
+                                    <li class=" ">
+                      S tronic : boîte séquentielle 7 vitesses à double embrayage avec commande électrohydraulique 
+                    </li>
+                                    <li class=" ">
+                      Sellerie mixte en tissu Séquence et cuir avec estampillage S sur le dossier des sièges AV 
+                    </li>
+                                    <li class=" ">
+                      Sellerie mixte en tissu Séquence et cuir avec estampillage S sur le dossier des sièges AV (21/09/2017 -&gt; 30/09/2018) 
+                    </li>
+                                    <li class=" ">
+                      Sécurité enfants 
+                    </li>
+                                    <li class=" ">
+                      Sièges AV réglables manuellement en hauteur et en profondeur ; réglage manuel des appuie-tête en hauteur 
+                    </li>
+                                    <li class=" ">
+                      Sièges Sport à l'AV 
+                    </li>
+                                    <li class=" ">
+                      Système de freinage avec freins à disque à l'AV et à l'AR 
+                    </li>
+                                    <li class=" ">
+                      Système Start/Stop 
+                    </li>
+                                    <li class=" ">
+                      Tapis complémentaires AV et AR 
+                    </li>
+                                    <li class=" ">
+                      Tapis de coffre à bagages 
+                    </li>
+                                    <li class=" ">
+                      Triangle de présignalisation 
+                    </li>
+                                    <li class=" ">
+                      Trousse de secours 
+                    </li>
+                                    <li class=" ">
+                      Vide-poches 
+                    </li>
+                                    <li class=" ">
+                      Virtual cockpit 
+                    </li>
+                                    <li class=" ">
+                      Vitrage acoustique pour les vitres de portières AV 
+                    </li>
+                                    <li class=" ">
+                      Vitrage Privacy (vitres surteintées) avec vitrage acoustique pour les vitres de portières 
+                    </li>
+                                    <li class=" ">
+                      Vitrage Privacy (vitres surteintées) avec vitrage acoustique pour les vitres de portières AV 
+                    </li>
+                                    <li class=" ">
+                      Vitres athermiques 
+                    </li>
+                                    <li class=" ">
+                      Volant 3 branches multifonction plus en cuir badgé S line avec méplat et poignées de volant en cuir perforé et palettes de changement de vitesse 
+                    </li>
+                            </ul>
+
+generalité
+<ul>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <li>
+                          Boite de vitesse : Boîte automatique
+                      </li>
+                                                                              <li>
+                          Echappement : Filtre à particules et oxy.cat
+                      </li>
+                                                                              <li>
+                          Genre : VP
+                      </li>
+                                                                              <li>
+                          Nombre de place : 5
+                      </li>
+                                                                              <li>
+                          Nombre de porte : 5
+                      </li>
+                                                                              <li>
+                          Nombre de rapports : 7
+                      </li>
+                                                                              <li>
+                          Nombre de roues : 4
+                      </li>
+                                                                              <li>
+                          Norme de pollution : Euro 6
+                      </li>
+                                                                              <li>
+                          Segment : SUV de luxe
+                      </li>
+                                                                              <li>
+                          Taille pneu arrière : 235/55 R19 104V
+                      </li>
+                                                                              <li>
+                          Taille pneu avant : 235/55 R19 104V
+                      </li>
+                                                                              <li>
+                          Taux de CO2 NEDC : 133 g/km
+                      </li>
+                                                                              <li>
+                          Taux de CO2 WLTP : 136 g/km
+                      </li>
+                                                                              <li>
+                          Traction : 4 roues permanent
+                      </li>
+                                                                              <li>
+                          Type de véhicule : Tout-Terrain
+                      </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>

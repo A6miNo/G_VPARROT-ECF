@@ -1,0 +1,230 @@
+<div class="mt-4 pl-4">
+            <ul>
+                                                                                                    <li class=" ">
+                      Accoudoir central AR 
+                    </li>
+                                    <li class=" ">
+                      Aide au démarrage en côte 
+                    </li>
+                                    <li class=" ">
+                      Aide au stationnement AR 
+                    </li>
+                                    <li class=" ">
+                      Airbag genoux conducteur 
+                    </li>
+                                    <li class=" ">
+                      Airbags frontaux et latéraux conducteur et passager AV 
+                    </li>
+                                    <li class=" ">
+                      Airbags rideaux 1ère et 2ème rangées 
+                    </li>
+                                    <li class=" ">
+                      Alerte d'oubli de ceintures de sécurité AV et AR 
+                    </li>
+                                    <li class=" ">
+                      Allumage automatique des phares (Pack Automatismes) 
+                    </li>
+                                    <li class=" ">
+                      Anti-démarrage PATS 
+                    </li>
+                                    <li class=" ">
+                      Appuis-tête AV et AR 
+                    </li>
+                                    <li class=" ">
+                      Banquette AR réglable en inclinaison et rabattable 60/40 d'une main 
+                    </li>
+                                    <li class=" ">
+                      Boîte à gants avec éclairage 
+                    </li>
+                                    <li class=" ">
+                      Bouton de démarrage "Ford Power" 
+                    </li>
+                                    <li class=" ">
+                      Cache-bagages flexible 
+                    </li>
+                                    <li class=" ">
+                      Ceintures de sécurité 3 points sur l'ensemble des sièges 
+                    </li>
+                                    <li class=" ">
+                      Ceintures de sécurité AV réglables en hauteur avec prétensionneurs et limiteurs d'effort 
+                    </li>
+                                    <li class=" ">
+                      Clignotement automatique des feux de stop en cas de freinage d'urgence 
+                    </li>
+                                    <li class=" ">
+                      Climatisation automatique bi-zone 
+                    </li>
+                                    <li class=" ">
+                      Console centrale avec accoudoir et double espace de rangement 
+                    </li>
+                                    <li class=" ">
+                      Direction assistée 
+                    </li>
+                                    <li class=" ">
+                      Double sortie d'échappement 
+                    </li>
+                                    <li class=" ">
+                      Easy Fuel (Trappe sans bouchon avec détrompeur de carburant) 
+                    </li>
+                                    <li class=" ">
+                      Eclairage du coffre 
+                    </li>
+                                    <li class=" ">
+                      ESP avec Aide au freinage d'urgence et Contrôle de stabilité de la remorque 
+                    </li>
+                                    <li class=" ">
+                      Essuie-glace AV (Pack Automatismes) 
+                    </li>
+                                    <li class=" ">
+                      Essuie-glace AV automatique à détecteur de pluie (Pack Automatismes) 
+                    </li>
+                                    <li class=" ">
+                      Etui à lunettes intégré au plafond 
+                    </li>
+                                    <li class=" ">
+                      Feux de jour à LED 
+                    </li>
+                                    <li class=" ">
+                      Fixations ISOFIX aux places latérales AR 
+                    </li>
+                                    <li class=" ">
+                      Frein à main électrique 
+                    </li>
+                                    <li class=" ">
+                      Jantes alliage 17" 
+                    </li>
+                                    <li class=" ">
+                      KeyFree System - Entrée et de démarrage mains libres 
+                    </li>
+                                    <li class=" ">
+                      Kit de réparation pneumatique 
+                    </li>
+                                    <li class=" ">
+                      Lève-vitres AV/AR électriques à impulsion avec fermeture globale à distance 
+                    </li>
+                                    <li class=" ">
+                      Lumière d'ambiance à LED personnalisable 
+                    </li>
+                                    <li class=" ">
+                      Ordinateur de bord 
+                    </li>
+                                    <li class=" ">
+                      Pare-soleil conducteur et passager avec miroir de courtoisie éclairé 
+                    </li>
+                                    <li class=" ">
+                      Phares halogènes 
+                    </li>
+                                    <li class=" ">
+                      Poches aumonières au dos des sièges AV 
+                    </li>
+                                    <li class=" ">
+                      Poignées de portes extérieures et de hayon couleur carrosserie 
+                    </li>
+                                    <li class=" ">
+                      Pommeau de levier de vitesse cuir 
+                    </li>
+                                    <li class=" ">
+                      Prise 12V AV et AR 
+                    </li>
+                                    <li class=" ">
+                      Projecteurs antibrouillard 
+                    </li>
+                                    <li class=" ">
+                      Réglage lombaire du siège conducteur 
+                    </li>
+                                    <li class=" ">
+                      Réglage lombaire du siège passager 
+                    </li>
+                                    <li class=" ">
+                      Régulateur et limiteur de vitesse 
+                    </li>
+                                    <li class=" ">
+                      Rétroviseur intérieur électrochrome (Pack Automatismes) 
+                    </li>
+                                    <li class=" ">
+                      Rétroviseurs extérieurs électriques et chauffants couleur carrosserie avec répétiteur de clignotant intégré 
+                    </li>
+                                    <li class=" ">
+                      Rétroviseurs extérieurs rabattables électriquement avec lumière d'approche 
+                    </li>
+                                    <li class=" ">
+                      Sellerie Cuir/Tissu Groove 
+                    </li>
+                                    <li class=" ">
+                      Seuils de portes 
+                    </li>
+                                    <li class=" ">
+                      Siège conducteur réglable en hauteur manuellement 
+                    </li>
+                                    <li class=" ">
+                      Sièges AV Sport 
+                    </li>
+                                    <li class=" ">
+                      Spots de lecture de carte AV et AR 
+                    </li>
+                                    <li class=" ">
+                      Système de surveillance de la pression des pneus 
+                    </li>
+                                    <li class=" ">
+                      Système multimédia Ford SYNC III avec navigation, Bluetooth, commandes vocales avancées, écran couleur 8", 2 prises USB, 6HP, info trafic TMC, accès aux points d'intérêts du guide Michelin, Apple Carplay et Android Auto 
+                    </li>
+                                    <li class=" ">
+                      Système MyKey Génération 2 
+                    </li>
+                                    <li class=" ">
+                      Système Stop &amp; Start 
+                    </li>
+                                    <li class=" ">
+                      Verrouillage centralisé avec commande à distance 
+                    </li>
+                                    <li class=" ">
+                      Volant en Cuir réglable en hauteur et en profondeur 
+                    </li>
+                            </ul>
+          </div>
+
+generamlité
+<ul>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <li>
+                          5 places
+                      </li>
+                                                                              <li>
+                          6 rapports
+                      </li>
+                                                                              <li>
+                          Boîte de vitesse : Boîte manuelle
+                      </li>
+                                                                              <li>
+                          Echappement : Filtre à particules et oxy.cat
+                      </li>
+                                                                              <li>
+                          Genre : VP
+                      </li>
+                                                                              <li>
+                          Nombre de portes : 5
+                      </li>
+                                                                              <li>
+                          Nombre de roues : 4
+                      </li>
+                                                                              <li>
+                          Norme de pollution : Euro 6
+                      </li>
+                                                                              <li>
+                          Segment : SUV légers
+                      </li>
+                                                                              <li>
+                          Taille des pneus arrière : 235/55 R17 99V
+                      </li>
+                                                                              <li>
+                          Taille des pneus avant : 235/55 R17 99V
+                      </li>
+                                                                              <li>
+                          Taux de CO2 NEDC : 122 g/km
+                      </li>
+                                                                              <li>
+                          Traction avant
+                      </li>
+                                                                              <li>
+                          Type de véhicule : SUV 4X4
+                      </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>

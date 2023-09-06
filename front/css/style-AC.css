@@ -1,0 +1,293 @@
+/* Réinitialisation des marges et des rembourrages pour tous les éléments */
+* {
+   
+    padding: 0;
+    box-sizing: border-box;
+  }
+/*Reset*/
+
+ul{
+    list-style: none;
+  }
+  a{
+    text-decoration: none;
+    color: inherit;
+  }
+/*Variables*/
+:root{
+  --font-size: 1rem;
+  /*CSS HEX*/
+  --color-first: #1D3557;
+  --color-second:#457B9D;
+  --color-three: #A8DADC;
+  --color-four:#F1FAEE;
+  --color-five:#E63946;
+  /*CSS hsla*/
+--red-pantone: hsla(355, 78%, 56%, 1);
+--honeydew: hsla(105, 55%, 96%, 1);
+--non-photo-blue: hsla(182, 43%, 76%, 1);
+--cerulean: hsla(203, 39%, 44%, 1);
+--berkeley-blue: hsla(215, 50%, 23%, 1);
+}
+
+.dark-mode{
+  --navbar-color:var(--color-four);
+  --navbar-bg:var(--color-first);
+  --navbar-line:var(--color-three);
+  --reverse-navbar-color:var(--color-second);
+  --reverse-navbar-bg:var(--color-three);
+  --reverse-navbar-line:var(--color-first);
+
+}
+.light-mode{
+  --navbar-color:var(--color-second);
+  --navbar-bg:var(--color-three);
+  --navbar-line:var(--color-first);
+  --reverse-navbar-color:var(--color-four);
+  --reverse-navbar-bg:var(--color-first);
+  --reverse-navbar-line:var(--color-three);
+
+}
+
+
+  
+
+/*Style TItre*/
+h1 {
+    font-size: 36px;
+    color: var(--color-five);
+}
+h2{
+    text-align: center;
+    line-height: 2.2rem;
+}
+h3{
+    font-size: smaller;
+}
+
+/*Style input*/
+select:hover, input:hover{
+    border: 2px solid #0d0d88;
+  }
+
+  
+  
+/*Basic Style*/
+body{
+    font-size: var(--font-size);
+    font-family: 'Titillium Web', sans-serif;
+}
+  .main-content{
+    padding: 1rem;
+  }
+
+  .image-official{
+    object-fit: contain;
+  }
+  
+  /*Navbar*/
+  .main-content, #section2 {
+    height:100vh;
+  }
+  
+  .logo{
+    width: 10rem;
+    height: auto;
+    margin-left: 2rem;
+    }
+  
+    /*Large device: Desktop*/
+  
+  
+  .navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size:1.1rem;
+    font-weight: 600;
+    color: var(--navbar-color);
+    background: var(--navbar-bg);
+    height: 10rem;
+    
+  }
+  .navbar_links{
+    display: flex;
+    
+    }
+  .navbar_link{
+    padding: 0 10px;/*espace à gauche et à droite entre les li*/
+    
+    justify-self: center;
+    flex-shrink: 0;
+    
+    
+  }
+  
+  
+  /*.navbar_link > a{
+    color: inherit;
+    }*/
+  
+  .burger{
+    display: none;
+  }
+  
+  
+  
+      .navbar_link > a::after, .navbar_link > a::before {
+        display: block;
+        content: "";/*type d'animation discrete ça permettra de prendre en compte les after et les before*/
+        width: 0;
+        height: 1px;
+        background:var(--navbar-line);
+        transition: all .4s;
+      
+      }
+    
+      .navbar_link:hover > a::after, .navbar_link:hover > a::before {
+        width: 100%; /*au survol l'element after s'agrandira*/
+      }
+    
+    /*ecran mobile*/
+    @media screen and (max-width:768px) {
+      .logo{
+        width: 35%;
+        justify-content: center;
+      }
+      .navbar{
+        height: 20vh;
+      }
+      .navbar_links{
+        overflow: hidden;
+        display:flex;
+        flex-direction: column;
+        width: 0;
+        height: 100vh;/*la hauteur pour que cela prenne tout l'ecran auquel on enleve la hauteur pour ne pas faire dépasser et éviter un scroll*/
+        position: absolute;
+        top:9rem; /*je fixe mon top par rappport à la hauteur de mon menu*/
+        right: 0;
+        z-index: 99;
+        
+        background: var(--navbar-bg);
+        transform: translateX(110%);
+        transition: all 0.3s ease-in-out;
+      }
+      .navbar_link:hover > a::after, .navbar_link:hover > a::before{
+        width: 0%; /*au survol les elements after et before ne s'affichent pas*/
+      }
+      .open-nav .navbar_links{
+      width: 100vw;
+      transform: translateX(0);
+      }
+      .navbar_link{
+        transform: translateX(101%);/*pour l'animation effet texte qui arrive*/
+        transition: all 0.3s ease-in-out;
+      }
+      .open-nav .navbar_link{
+        transform: translateX(0);
+      }
+      .navbar_link > a{
+        display: block;/*par defaut a est en inline*/
+        padding: 1rem;
+        font-size: 1.7rem;
+        color: var(--navbar-color);
+        transition: all 0.1s ease-in-out;
+      }
+      .navbar_link > a:hover{
+          padding-left: 2rem;
+          letter-spacing: 5px;
+         
+        }
+        .navbar_link:last-child{
+        margin-left:0;
+        }
+        /*toggle menu*/
+        .burger{
+          display: block;
+          position: relative;/*de façon à placer les element after et before en absolute*/
+          padding:0;
+          width:3rem ;
+          height:3rem ;
+          border: none;
+          background: transparent;
+          cursor: pointer;
+        }
+        .bar{
+          display: block;
+          width: 90%;
+          height:4px;
+          background: var(--navbar-color);
+          border-radius: 3px;
+          transition: all 0.5s ease-in-out;
+          
+        }
+        .bar::before, .bar::after{
+          content: "";
+          width: 90%;
+          height:4px;
+          position:absolute; /*par rapport à la relative de burger*/
+          left:0;/*pour s'aligner à bar*/
+          background: var(--navbar-color);
+          border-radius: 3px;
+          transition: all 0.5s ease-in-out;
+        }
+        .bar::before{
+          transform: translateY(-10px); /*place la barre sur l'axe vertical au dessus de bar*/
+        }
+        .bar::after{
+          transform: translateY(10px); /*place la barre sur l'axe vertical au dessous de bar*/
+        }
+        .open-nav .bar{
+          width: 0;
+          background: transparent; /*pour que lorsque l'on clique la barre du mlieu disparait*/
+        }
+        .open-nav .bar::before{
+          transform: rotate(45deg);
+        }
+        .open-nav .bar::after{
+          transform: rotate(-45deg);
+        }
+    
+        /*animation*/
+        .open-nav .first {      
+          transition: all 1s ease-out;
+        } 
+        .open-nav .second {      
+          transition: all 1.1s ease-out;
+        } 
+        .open-nav .third {      
+          transition: all 1.2s ease-out;
+        } 
+        .open-nav .four {      
+          transition: all 1.3s ease-out;
+        } 
+        .open-nav .fifth {      
+          transition: all 1.4s ease-out;
+        }
+      }
+      /*lien de la page courante en diasbled*/
+      a.disabled {
+        pointer-events: none;
+        color: transparent;
+        text-decoration: none;
+      }
+      
+  /* Styles pour les boutons */
+.btn {
+    border-radius: 50px;
+    background: linear-gradient(to bottom, #3cd377, #23862c); /* Dégradé de couleur */
+    color: #fff; /* Couleur du texte du bouton */
+    border: none;
+    padding: 10px 20px; /* Espacement du bouton */
+    cursor: pointer;
+    margin-top: 15px;
+    text-shadow: none;
+    transition: all 0.5s; /* Transition pour l'effet de dégradé */
+  }
+
+  /* Effet bouton appuyé au survol */
+.btn:hover {
+    background: #3cd377; /* Couleur d'arrière-plan du bouton */
+    color: #e7e4e4;
+    text-shadow:#23862c 10px 0 10px;
+}
