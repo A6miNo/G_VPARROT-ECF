@@ -1,0 +1,9 @@
+.box-login{
+ 
+    height: 50vh;
+    width:auto;
+    background-color:transparent;
+    border: 3px solid var(--color-four);
+    align-items:center;
+    gap: 1rem;
+}

@@ -1,0 +1,73 @@
+main{
+    background-image: url("../asset/image/cooperation-g186549ef1_640.jpg");
+    background-repeat: no-repeat;
+    opacity: 0.6;
+    padding: 20px;
+    background-size: 100vw;
+    background-position: center;
+    margin: 10rem;
+}
+
+.grp-service{
+    margin: 1rem;
+    border: 3px solid var(--color-second);  
+    background-color: #1d35573f;
+    color: var(--color-four);
+    font-weight: 300;
+    border-radius: 5px;
+}
+.info-garage{
+    padding-top: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.service-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    gap:1rem;
+}
+    
+.card-service{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    border: 3px solid var(--color-first);
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.card-service img {
+    width: 100%;
+    max-height: 150px;
+    object-fit: cover;
+    padding: 1rem;
+    object-position: center;
+
+}
+.card-service h3{
+    background-color: var(--color-four);
+    padding: 0.5rem;
+    width: 100%;
+    text-align: center;
+}
+.container-texts{
+    margin:15px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+    justify-content: space-between;
+    flex-grow: 2;  
+}
+
+.list-ok{
+    margin-top: 15px;
+    list-style: circle;;
+}
+
