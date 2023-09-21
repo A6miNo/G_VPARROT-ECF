@@ -18,8 +18,8 @@ II -- Utilisation
 garage_v_parrot.sql contient la base de données
 Les utilisateurs se connectent en utilisant leur adresse e-mail et un mot de passe sécurisé.
 
-L'administrateur dispose d'un compte préalablement créé : email : vincent.parrot@example.com mot de passe : admin
-Vous pouvez également vous connecter en tant qu'employé : email : john.doe@example.com mot de passe : Fremploye_1
+L'administrateur dispose d'un compte préalablement créé : email : vparrot@gmail.com mot de passe : 123456
+Vous pouvez également vous connecter en tant qu'employé : email : parfait-employe@example.com mot de passe : 03011906charbon
 
 2- Les droits
 Les employées peuvent consulter les messages, modérer les avis et modifier la liste de vehicule.
