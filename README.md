@@ -21,6 +21,8 @@ Les utilisateurs se connectent en utilisant leur adresse e-mail et un mot de pas
 L'administrateur dispose d'un compte préalablement créé : email : vparrot@gmail.com mot de passe : 123456
 Vous pouvez également vous connecter en tant qu'employé : email : parfait-employe@example.com mot de passe : 03011906charbon
 
+Note: les images devront etres stockées sur un hebergeur comme  https://www.noelshack.com/ 
+
 2- Les droits
 Les employées peuvent consulter les messages, modérer les avis et modifier la liste de vehicule.
 L'admnistrateur est le seul à avoir des droits étendus. En plus des droits de l'utilisateur employé, l'administrateur peut modifier la liste des employés, les informations générales de la société ainsi que modifier la section "services". 
